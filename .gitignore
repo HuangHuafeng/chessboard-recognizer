@@ -5,6 +5,6 @@ venv
 __pycache__
 *.html
 *.zip
-model.tf
-images/chessboards
-images/tiles
+#model.tf
+#images/chessboards
+#images/tiles
